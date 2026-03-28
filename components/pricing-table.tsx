@@ -39,7 +39,7 @@ export function PricingTable() {
           {/* Price */}
           <div className="text-center mb-8">
             <span className="text-5xl font-bold text-gray-900 dark:text-white">
-              $4
+              $9
             </span>
             <span className="text-gray-600 dark:text-gray-400 ml-2">
               one-time
